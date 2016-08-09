@@ -1,2 +1,2 @@
 # testRepository
-第一次看看 仓库的创建
+ios8.0 之后 系统状态栏的隐藏
